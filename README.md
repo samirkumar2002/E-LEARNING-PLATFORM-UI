@@ -31,3 +31,17 @@ From a technical standpoint, CoderHub is built purely with HTML for structure, C
 CoderHub does not involve any backend or server-side code, making it lightweight and ideal for showcasing front-end web development skills. It demonstrates a solid grasp of key web technologies while simulating core features of modern e-learning systems such as Coursera or Udemy.
 
 In conclusion, CoderHub is a complete, functional, and visually appealing front-end prototype of an E-Learning platform. It meets all specified requirements — course listing, progress tracking, video embedding, styling, and interactivity — making it a perfect submission-ready project and a strong portfolio piece for any front-end developer or student.
+
+# OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/9617dd85-1e4a-4f60-b80b-47409968226b)
+
+![Image](https://github.com/user-attachments/assets/c519b89e-6147-493c-a78c-3cc59d1384cf)
+
+![Image](https://github.com/user-attachments/assets/482fe5bc-78ae-473a-9789-a434967e66d6)
+
+![Image](https://github.com/user-attachments/assets/7c79af0f-6370-41a0-8775-bf935b59eac6)
+
+![Image](https://github.com/user-attachments/assets/89f34a59-f489-44f3-8b46-8b8ad6f6bd60)
+
+![Image](https://github.com/user-attachments/assets/b2109d8e-9fa6-4c13-8134-cdb694ac7c3d)
